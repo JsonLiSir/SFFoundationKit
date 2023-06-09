@@ -1,0 +1,22 @@
+{
+  "name": "SFFoundationKit",
+  "version": "0.1.0",
+  "summary": "A short description of SFFoundationKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1026694246@qq.com/SFFoundationKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1026694246@qq.com": "1026694246@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1026694246@qq.com/SFFoundationKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SFFoundationKit/Classes/**/*"
+}
